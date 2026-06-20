@@ -1,0 +1,8 @@
+[project]
+name = "paired-oct-lesion-candidate"
+version = "0.1.0"
+description = "Unsupervised paired OCT lesion candidate discovery for pre/post cataract OCT data."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
